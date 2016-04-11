@@ -1,0 +1,19 @@
+{
+  "name": "rpi-display-orientation",
+  "version": "1.0.0",
+  "description": "display orientation for raspberry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivsgroup/rpi-display-orientation.git"
+  },
+  "author": "Mejdi Ourir <m.ourir@ivsweb.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivsgroup/rpi-display-orientation/issues"
+  },
+  "homepage": "https://github.com/ivsgroup/rpi-display-orientation"
+}
